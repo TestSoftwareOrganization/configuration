@@ -1,2 +1,0 @@
-# configuration
-Contains configuration properties
